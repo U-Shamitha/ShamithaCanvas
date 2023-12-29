@@ -1,0 +1,43 @@
+.mainContainer {
+    margin: 40px 0px 0px 0px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .canvasDiv{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+  }
+
+  .canvas {
+    flex: 1;
+    position: absolute;
+  }
+
+  .editorContainer{
+    width: 20%;
+    display: flex;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    justify-content: center;
+  }
+
+  .editorDiv{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    align-items:flex-start;
+  }
+
+  .editorDiv textarea{
+    margin: 10px 0px;
+  }
+
+  .labelContainer{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+  }
+  
+  
