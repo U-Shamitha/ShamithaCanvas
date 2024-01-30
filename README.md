@@ -1,4 +1,5 @@
-![image](https://github.com/U-Shamitha/ShamithaCanvas/assets/84791843/69e12f38-4553-4ce6-b04d-9c1a200fc0ae)
+![image](https://github.com/U-Shamitha/ShamithaCanvas/assets/84791843/2cfbc35e-8cc3-4da8-b3ad-b0d8b3a7671c)
+
 
 Features:
 • Simple canvas which allows user to add text, move text to change it’s position in the canvas, edit text content,
