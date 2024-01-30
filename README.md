@@ -2,7 +2,7 @@
 
 
 Features:
-• Simple canvas which allows user to add text, move text to change it’s position in the canvas, edit text content,
+#• Simple canvas which allows user to add text, move text to change it’s position in the canvas, edit text content,
 color,font size and font color
-• Can add new text elements and perform all above modifications for each text independently.
-• Undo, Redo changes, Clear history of changes, download the canvas as image or pdf
+#• Can add new text elements and perform all above modifications for each text independently.
+#• Undo, Redo changes, Clear history of changes, download the canvas as image or pdf
